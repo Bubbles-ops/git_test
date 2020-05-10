@@ -1,0 +1,1 @@
+This is Jelenica's first git project!
